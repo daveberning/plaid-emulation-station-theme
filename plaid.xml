@@ -1,0 +1,28 @@
+<!--
+theme name:     Plaid
+version:        1.0
+author:         Dave Berning
+email:          daveberning@outlook.com
+website:        daveberning.io
+license:        creative commons CC-BY-NC-SA
+based on:       "Carbon" by Eric Hettervik
+-->
+
+<theme>
+  <formatVersion>3</formatVersion>
+  <view name="system">
+    <image name="background" extra="true">
+      <size>0 1</size>
+      <pos>0.5 0.5</pos>
+      <origin>0.5 0.5</origin>
+    </image>
+  </view>
+  <view name="system, basic, detailed">
+    <helpsystem name="help">
+      <textColor>FFFFFF</textColor>
+      <iconColor>FFFFFF</iconColor>
+      <fontPath>./_inc/fonts/Roboto-Light.ttf</fontPath>
+      <fontSize>0.03</fontSize>
+    </helpsystem>
+  </view>
+</theme>
